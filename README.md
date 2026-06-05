@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dameion Dismuke
 ========================================================================================================================================
 
-Software Developer
+Frontend Developer
 ------------------
 
 I enjoy creating things and storytelling. I have a broad background of experiences, including in tech, that I use to bring various perspectives of approaches from websites to mobile applications. I have experience being behind the camera and in front of the camera, both literally and figuratively. I enjoy making new experiences and exploring possibilities.
